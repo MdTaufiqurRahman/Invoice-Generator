@@ -6,7 +6,7 @@
 An Invoice Generator project built with React.Js and TailwindCSS. Add items, quantity, prices, tax rates and discounts. Download Generated Invoices as PDFs to your device and print out. Use [html-to-image](https://github.com/bubkoo/html-to-image) to capture the data from modal and convert it from canvas to pdf with [jsPDF](https://github.com/parallax/jsPDF) for print your invoice use [react-to-print](https://www.npmjs.com/package/react-to-print).
 
 ### Live Demo
-
+https://reactjs-invoice-generator.netlify.app/
 
 ### Screenshots
 
